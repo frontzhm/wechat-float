@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/frontzhm/wechat-float/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 功能
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+主要放在微信的浮窗里
+很多时候，微信有提醒的时候，顺手就能访问相应的页面，不用一层层找。
 
-### Markdown
+## 未完成的功能
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 每个可以增删改查链接
+* 每个链接需要有 id/title/url/memo/tag/isImportant，tag后期可以tab栏切换
+* 排序功能，排序类型：点击次数、创建日期、名称
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frontzhm/wechat-float/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
